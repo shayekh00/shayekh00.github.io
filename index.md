@@ -1,10 +1,34 @@
-## Welcome to GitHub Pages
+## Hi ! Welcome to my Personal Portfolio
 
-You can use the [editor on GitHub](https://github.com/shayekh00/shayekh00.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+My name is Shayekh Mohiuddin Ahmed Navid and I am an aspiring Data Scientist. I completed my undergraduate degree from North South University in Computer Science and Engineering.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Throughout my undergraduate life I completed many amazing projects that are available over here. Lets go through some of them!
 
-### Markdown
+## Data Science Projects
+
+### Fingerprint Alteration Classification Using Convolutional Neural Networks
+
+
+### Signature Verification Using Convolutional Neural Networks
+
+###  DeepFake Detection Challenge by Facebook using Keras
+
+
+### Loan Defaulter Prediction using Machine Learning
+
+
+###  Covid-19 Visualization using Seaborn and Ploty
+
+
+###  NYC Airbnb Open Data Exploration using Pandas
+
+
+### Software Engineering Projects
+
+
+###  Teach Me- An Android and Web Application to Find Teachers
+
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
